@@ -1,0 +1,9 @@
+Links
+Inspiration for the coding of pipe is taken from bhupjit.
+http://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_lib_ref/e/execvp.html
+https://stackoverflow.com/questions/6282198/reading-string-from-input-with-space-character
+https://www.geeksforgeeks.org/pipe-system-call/
+https://www.geeksforgeeks.org/dup-dup2-linux-system-call/
+https://www.geeksforgeeks.org/fork-system-call/
+https://www.geeksforgeeks.org/chdir-in-c-language-with-examples/
+https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm
